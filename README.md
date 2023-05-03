@@ -1,3 +1,23 @@
+# Admin login
+
+To login as admin use emain:admin@gmail.com and password:9876
+
+### About Game
+
+The is a treasure hunt game built using react.It has three levels to test different soft skills of the player
+
+To play the game the user has to first login using gmail.
+
+From the first level the soft skill of the player,which can be understood is basic way of solving the problems based on simple clues.
+
+In first level the player has to put the coins in the treasure box
+
+Second level defines the softskill "different ways to approach the problem" of the player
+
+In second level player has to catch thief based on some clues.
+
+Third level is a memory game which test the soft skill way of observing things.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +88,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
