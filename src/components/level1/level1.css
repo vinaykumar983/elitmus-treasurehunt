@@ -1,0 +1,59 @@
+.q{
+    display: flex;
+    justify-content: space-around;
+}
+
+.zz{
+    position: relative;
+}
+
+#over {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 10px;
+    visibility: hidden;
+  }
+
+  .y{
+    background-image: url("https://images7.alphacoders.com/102/thumb-1920-1024854.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .x{
+    background-color: rgba(87, 121, 117, 0.655);
+  }
+
+  .balls{
+    margin-left: 15%;
+  }
+
+  /* Define styles for devices with a screen width of 600px or less */
+@media (max-width: 600px) {
+  /* .container {
+    width: 100%;
+    margin: 0 auto;
+
+  } */
+  .x{
+     font-size: small;
+  }
+}
+
+/* Define styles for devices with a screen width between 601px and 900px */
+@media (min-width: 601px) and (max-width: 900px) {
+  /* .container {
+    width: 90%;
+    margin: 0 auto;
+  } */
+}
+
+/* Define styles for devices with a screen width greater than 900px */
+@media (min-width: 901px) {
+  /* .container {
+    width: 80%;
+    margin: 0 auto;
+  } */
+}

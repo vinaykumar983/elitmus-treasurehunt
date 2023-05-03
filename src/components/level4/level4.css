@@ -1,0 +1,17 @@
+.display{
+    background-color:cornsilk;
+    border-radius: 5%;
+}
+
+.score{
+    background-color: rgba(255, 98, 50, 0.941);
+    width: 25%;
+    margin-top: 5%;
+    border-radius: 10%;
+}
+.board{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+

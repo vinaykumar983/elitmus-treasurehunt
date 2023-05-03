@@ -1,0 +1,22 @@
+.login{
+    background-color: rgba(231, 180, 27, 0.568);
+    border-radius: 20px;
+}
+
+@media (max-width: 600px) {
+    .dk{
+        margin-left: 30px;
+    }
+  }
+  
+  /* Define styles for devices with a screen width between 601px and 900px */
+  @media (min-width: 601px) and (max-width: 900px) {
+    .bgi{
+        display: none;
+    }
+  }
+  
+  /* Define styles for devices with a screen width greater than 900px */
+  @media (min-width: 901px) {
+    
+  }

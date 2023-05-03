@@ -1,0 +1,64 @@
+.parent3{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.formclass{
+    background-image: url("https://accuranetwork.com/wp-content/uploads/2021/10/Accura-Jumbo-Strong-Room-Door--1200x1200.jpg");
+}
+
+.clue{
+    color: black;
+}
+.score2{
+    background-color: cornsilk;
+    padding: 1%;
+    font-family: cursive;
+    border-radius: 20px;
+    width: 50%;
+
+}
+
+.bttn{
+    font-family: cursive;
+}
+.ig{
+    width: 60%;
+}
+
+.entry{
+    background-color: cornsilk;
+    border-radius: 20px;
+
+}
+
+
+@media (max-width: 600px) {
+    .entry{
+        background-color: cornsilk;
+        border-radius: 20px;
+        
+    }
+  }
+  
+  /* Define styles for devices with a screen width between 601px and 900px */
+  @media (min-width: 601px) and (max-width: 900px) {
+    .entry{
+        background-color: cornsilk;
+        border-radius: 20px;
+        width: 50%;
+    }
+  }
+  
+  /* Define styles for devices with a screen width greater than 900px */
+  @media (min-width: 901px) {
+    .l2{
+        margin-left: 70px;
+    }
+    .entry{
+        background-color: cornsilk;
+        border-radius: 20px;
+        width: 30%;
+    }
+  }

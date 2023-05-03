@@ -1,0 +1,39 @@
+Link{
+    background-color: red;
+}
+.a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color:   rgba(165, 143, 70, 0.788);
+    
+}
+.b{
+    background-color: rgba(165, 143, 70, 0.788);
+   
+}
+.c{
+    background-color: rgb(133, 96, 15);
+}
+
+
+@media (max-width: 600px) {
+    .bgi{
+        display: none;
+    }
+    .k{
+        display: none;
+    
+    }
+  }
+  
+  /* Define styles for devices with a screen width between 601px and 900px */
+  @media (min-width: 601px) and (max-width: 900px) {
+    .bgi{
+        display: none;
+    }
+  }
+  
+  /* Define styles for devices with a screen width greater than 900px */
+  @media (min-width: 901px) {
+    
+  }
