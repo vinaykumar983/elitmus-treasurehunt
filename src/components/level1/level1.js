@@ -74,6 +74,7 @@ function Level1(){
                 // let actionObj=updateUser(i);
                 // dispatch(actionObj)
                 // console.log(users);
+                document.getElementById("over").style.visibility="visible";
 
             }
             else{
