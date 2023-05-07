@@ -2,6 +2,8 @@
 
 To login as admin use emain:admin@gmail.com and password:9876
 
+You can play all levels with admin login
+
 ### About Game
 
 The is a treasure hunt game built using react.It has three levels to test different soft skills of the player
